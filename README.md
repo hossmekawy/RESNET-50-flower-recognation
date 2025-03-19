@@ -57,9 +57,7 @@ model = load_model('flower_recognition_model.h5')
 prediction = model.predict(image)
 ```
 
-## 📊 Results Visualization
 
-![Results](https://miro.medium.com/max/1400/1*oB3S5yHHhvougJkPXuc8og.png)
 
 ## 🎯 Future Improvements
 
