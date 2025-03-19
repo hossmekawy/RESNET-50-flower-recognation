@@ -25,9 +25,6 @@ This project implements a sophisticated Flower Recognition system using the powe
 
 </div>
 
-## 🌟 Model Architecture
-
-![ResNet50 Architecture](https://miro.medium.com/max/1400/1*_W0eKEgwY2uVQHXZvrqL8Q.png)
 
 ## 📈 Performance
 
